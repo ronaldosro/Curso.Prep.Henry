@@ -1,0 +1,37 @@
+
+VARIABLE:
+
+Una variable es un porción de memoria en la cual se deposita información; Consta de un nombre y pertenece a un tipo de datos ya sea ( numérico, cadena de caracteres, etc.).
+
+
+STRINGS:
+
+Son cadenas de caracteres que están definidas entre comillas simples o dobles.
+
+
+FUNCIONES:
+
+Es un conjunto de instrucciones que realiza una tarea o calcula un valor; Puede ser utilizado desde diferentes partes de un programa.
+
+
+ARGUMENTOS:
+
+Son los valores que se pasan a la función cuando ésta es invocada.
+
+
+RETURN:
+
+la única forma en que los datos escapan de una función.
+
+
+
+DECLARACIONES IF:
+
+Es un condicional que sirve para realizar unas u otras operaciones en función de una expresión;
+Comprueba condiciones específicas y realiza una tarea basada en estas mismas.
+
+
+VALORES BOOLEANOS (TRUE, FALSE):
+
+El tipo de dato lógico o booleano es en computación aquel que puede representar valores de lógica binaria, esto es 2 valores, que normalmente representan falso o verdadero.
+
